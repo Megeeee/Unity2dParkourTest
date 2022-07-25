@@ -240,6 +240,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b48c53433224bf34b817299f81ce2fc0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  jumpHeight: 3.5
+  timeToJumpApex: 0.4
 --- !u!114 &658370690
 MonoBehaviour:
   m_ObjectHideFlags: 0
